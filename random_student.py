@@ -25,7 +25,7 @@ def random_student(period):
 
 
 
-print random_student(4)
+print random_student(7)
 print random_student(8)
 print random_student(9)
 print random_student(11)
